@@ -1,6 +1,6 @@
 # website-portfolio
 https://ayooji.github.io/website-portfolio/012%20Zay.Shop/templatemo_559_zay_shop
-https://ayooji.github.io/website-portfolio/017%20seogram-1.0.0
+https://ayooji.github.io/website-portfolio/017%20seogram-1.0.0/html
 https://ayooji.github.io/website-portfolio/021softy-pinko-master
 https://ayooji.github.io/website-portfolio/024%20cleopatra
 https://ayooji.github.io/website-portfolio/030%20tournest-master
